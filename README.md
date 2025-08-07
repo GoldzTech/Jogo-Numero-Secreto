@@ -10,29 +10,23 @@
 
 ---
 
-## 🎥 Demonstração
-
-![Preview do Projeto](./[file:///C:/Users/Magno/Pictures/Screenshots/Captura%20de%20tela%202025-08-06%20194119.png])
-
-Ou acesse: [Link para a aplicação em produção (se tiver)]()
+Acesse: [https://jogo-numero-secreto-77.vercel.app/]()
 
 ---
 
 ## 🛠 Tecnologias utilizadas
 
-- [Ex: React]
-- [Ex: Node.js]
-- [Ex: MongoDB]
-- [Ex: TailwindCSS]
-- [Ex: Vite]
+- [JavaScript]
+- [HTML]
+- [CSS]
 
 ---
 
 ## ✅ Funcionalidades
 
-- [x] [Funcionalidade 1]
-- [x] [Funcionalidade 2]
-- [ ] [Funcionalidade 3 em desenvolvimento]
+- [x] [Gerar um numero secreto aleatorio]
+- [x] [Campo para um usuario digitar um palpite]
+- [x] [Botão para enviar palpite]
 
 ---
 
@@ -40,20 +34,14 @@ Ou acesse: [Link para a aplicação em produção (se tiver)]()
 
 ### Pré-requisitos
 
-- [Ex: Node.js v18+]
-- [Ex: MongoDB Atlas]
+- [VScode]
+- [JavaScript]
 
 ### Instalação
 
-```bash
 # Clone o repositório
-git clone https://github.com/[seu-usuario]/[nome-do-repo].git
+git clone https://github.com/GoldzTech/Jogo-Número-Secreto.git
 
 # Entre na pasta
-cd [nome-do-repo]
 
-# Instale as dependências
-npm install
-
-# Rode o projeto
-npm run dev
+# Clique duas vezes no index.html
